@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://elowenrise.com/sitemap.xml
